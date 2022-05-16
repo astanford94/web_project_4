@@ -1,0 +1,13 @@
+.header {
+  max-width: 880px;
+  margin: 45px auto;
+}
+
+.header__image {
+  display: flex;
+  margin-bottom: 41px;
+}
+
+.header__line {
+  max-width: 800px;
+}
