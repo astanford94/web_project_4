@@ -36,7 +36,7 @@ function submitForm(event) {
   toggleModalVisibility();
 }
 
-editForm.addEventListener("submit", submitForm)
+editForm.addEventListener("submit", submitForm);
 editButton.addEventListener("click", toggleModalVisibility);
 closeButton.addEventListener("click", toggleModalVisibility);
 
