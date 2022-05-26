@@ -30,6 +30,7 @@
   font-size: 42px;
   line-height: 48px;
   margin: 22px 0 0;
+  width: 373px;
 }
 
 .profile__job-title {
@@ -50,6 +51,12 @@
   border: 1px solid #fff;
   background-position: center;
   align-self: center;
+  margin-top: 28px;
+  opacity: 100%;
+}
+
+.profile__button-edit:hover {
+  opacity: 60%;
 }
 
 .profile__button-add {
@@ -67,4 +74,9 @@
   margin-bottom: 35px;
   margin-left: 165px;
   align-self: flex-start;
+  opacity: 100%;
+}
+
+.profile__button-add:hover {
+  opacity: 60%;
 }

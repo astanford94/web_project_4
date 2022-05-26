@@ -47,6 +47,9 @@
   margin-right: 15px;
   margin-bottom: 31px;
   margin-left: 21px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .elements__card-button {
@@ -59,4 +62,13 @@
   align-self: center;
   width: 21px;
   height: 19px;
+  opacity: 100%;
+}
+
+.elements__card-button:hover {
+  opacity: 60%;
+}
+
+.elements__card-button:active {
+  background-color: #000;
 }

@@ -1,0 +1,29 @@
+.footer {
+}
+
+.footer__copyrights {
+  margin-top: 68px;
+  margin-right: 762px;
+  margin-bottom: 60px;
+  margin-left: 200px;
+  max-width: 318px;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #545454;
+}
+
+/*@media screen and (max-width: 920px) {
+    .footer__copyrights {
+      margin-top: 88px;
+    }
+  }
+  
+  @media screen and (max-width: 550px) {
+    .footer__copyrights {
+      margin-top: 64px;
+    }
+  }*/
