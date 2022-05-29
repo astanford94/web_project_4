@@ -30,3 +30,4 @@ function submitForm(event) {
 editForm.addEventListener("submit", submitForm);
 editButton.addEventListener("click", toggleModalVisibility);
 closeButton.addEventListener("click", toggleModalVisibility);
+submitBtn.addEventListener("submit", submitForm);

@@ -68,6 +68,7 @@
   font-size: 18px;
   line-height: 22px;
   opacity: 100%;
+  cursor: pointer;
 }
 
 .form__button:hover {
