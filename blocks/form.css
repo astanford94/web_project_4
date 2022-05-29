@@ -15,6 +15,7 @@
   background-repeat: no-repeat;
   position: absolute;
   opacity: 100%;
+  cursor: pointer;
 }
 
 .form__exit-button:hover {
